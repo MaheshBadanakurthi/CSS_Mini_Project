@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(192, 244, 244);
+}
+#hed{
+    border:1px solid green;
+    height:200px;
+    background-image: url('proHead-.jpg');
+    /* display: inline; */
+}
+h1{
+    color:green;
+    text-align: center;
+    font-size: 50px;
+}
+
+
+.ibk{
+    display:flex;
+   
+}
+    
+.mrg{
+    margin-left: 60px;
+}
+
+.mrg2{
+    margin-left: 60px;
+    font-size: 23px;
+    font-style: oblique;
+}
+a.st:hover{
+    width:120%;
+    font-size: 24px;
+}
+.bt{
+    background-color: green;
+    text-align: center;
+    font-weight: 600;
+    color:white
+}
+
+
+.bt2{
+    background-color: rgb(234, 35, 8);
+    text-align: center;
+    font-weight: 600;
+    color:white
+}
+
+.frm{
+    width:350px;
+    text-align: center;
+    margin-left: 250px;
+    margin-top: 30px;
+    font-size:20px
+}
+
+.mrq{
+    background-color: antiquewhite;
+    font-size: 27px;
+    color:green;
+    text-shadow: 1px 1px red;;
+}
+.ft{
+    border:1px solod red;
+    height:400px;
+    width:100%;
+    background-image: url('FooterBg.jpg');
+}
+.jobbg{
+    height:100px;
+    width:100px;
+    margin: 20px;
+}
+
+.footdiv{
+    text-align: center;
+    border:2px ridge white;
+    background-color: white;
+    color: greenyellow;
+    text-shadow: 2px 2px 2px black;
+    font-weight: 700;
+    font-size: 26px;
+    
+}

@@ -1,0 +1,150 @@
+img{
+    /* height:100px;
+    width: 100px; */
+    margin-left: 400px;
+    height:143px
+    
+}
+.head{
+    width:80%;
+    height:130px;
+    background-color: rgb(236, 6, 6);
+    margin-left: 100px;
+   
+}
+fieldset{
+    width:800px;
+}
+.marj{
+    margin-left:110px;
+}
+a.zoom:hover{
+    font-size: 130%;
+    background-color: antiquewhite;
+}
+.fxcnr{
+    display:flex;
+    background-color: rgb(227, 239, 235);
+    height:800px;
+}
+.fxcnr2{
+    background-color: rgb(155, 241, 155);
+    color: white;
+    /* width: 100px; */
+    margin: 10px;
+    text-align: center;
+    /* line-height: 75px; */
+    font-size: 30px;
+}
+table,th,td{
+    border:1px solid red;
+}
+.imlft{
+    height:100px;
+    width:100px;
+    float:left;
+    
+}
+.ib{
+    display: inline-block;
+}
+.foot{
+    width:100%;
+    height:150px;
+    background-color: rgb(106, 91, 7);
+    /* margin-left: 100px; */
+}
+.foot2{
+    background-image: url('Officersnavy.jpg');
+}
+.moto{
+    width:80%;
+    height:120px;
+    background-color: rgb(9, 227, 13);
+    margin-left: 100px;
+    text-align: center;
+    font-style: oblique;
+    font-weight: bold;
+    color:black;
+    text-shadow: 2px 2px 2px red;
+    font-size: 24px;
+   padding-top: 10px;
+
+}
+.armybg{
+    background-image: url('IndianAirforce.jpg');
+    background-repeat: no-repeat;
+    height:2000px;
+    width: 650px;
+    
+}
+.safe{
+    border:2px solid rgb(222, 25, 25);
+    background-color: white;
+    width:350px;
+    height:70px;
+    font-size: 30px;
+    padding-left:10px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 12px;
+    font-family: ;
+}
+
+.qrs{
+    border:1px solid red;
+    margin-left: 10px;
+    width:600px;
+    margin-top: 350px;
+    /* background-image: url('navyboat\.jpg'); */
+    font-style: oblique;
+    font-weight: 800;
+    font-size: 22px;
+    opacity: 1;
+}
+.im{
+    background-image: url('2ndAirforce.jpg');
+    height:280px;
+    width:750px
+}
+
+.chakra{
+    height:50px;
+    width:50px;
+    margin-right: 100px;
+}
+.ftext{
+    font-weight: 400;
+    padding-left: 20px;
+    padding-top: 10px;
+    font-size: 19px;
+    color:greenyellow;
+    text-shadow: 2px 1px 1px red;
+}
+.lt{
+    font-weight: 400;
+   margin-left: 800px;
+    font-size: 19px;
+    color:greenyellow;
+    text-shadow: 2px 1px 1px red;
+}
+
+#Ln{
+    border:1px solid black;
+    
+    background-color: black;
+    color:white;
+    font-style: oblique;
+}
+#dnd{
+    background-color: black;
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#not{
+    font-size: 24px;
+    background-color: brown;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
